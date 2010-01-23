@@ -8,5 +8,10 @@ main() {
     printf("I make conflicts because I am Lotus\n");
     for (int i = 0; i < 10; i++)
       printf("Itteration %d\n", i);
+    while(1) {
+      printf("HAHAHAH\n");
+    }
+
+    return 0;
 }
 foo
